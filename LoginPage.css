@@ -1,0 +1,82 @@
+body{
+    background-image: linear-gradient(to left ,rgb(163, 150, 232),rgb(149, 211, 220),rgb(151, 253, 151));
+}
+
+p{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center; 
+    color: navy;
+}
+
+.username{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+  
+}
+
+input[type="text"]{
+    padding:10px 30px 10px 30px;
+	font-size: medium;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-radius: 15px;
+    border-color: rgb(38, 84, 211);
+	width: 32%;
+	text-align: center
+}
+
+.password{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+input[type="password"]{
+    padding:10px 30px 10px 30px;
+	font-size: medium;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-radius: 15px;
+    border-color: rgb(38, 84, 211);
+	width:32%;
+	text-align: center;
+}
+
+.login{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+input[type="submit"]{
+    padding:10px 30px 10px 30px;
+	font-size: x-large;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-radius: 15px;
+    border-color: aliceblue;
+	width: 15%;
+	text-align: center;
+    background-color: rgb(4, 88, 4);
+    color:aliceblue;
+}
+
+.forget_password{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+input[type="button"]{
+    padding:10px 30px 10px 30px;
+	font-size: large;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-radius: 15px;
+	width:9%;
+	text-align: center;
+    background-color: rgb(189, 221, 46);
+    color:black;
+}
+
+.usericon{
+    text-align: center;
+}
